@@ -1,4 +1,4 @@
-### Hello <img alt="waving hand" width="25px" src="https://github.com/kik-o/kik-o/blob/master/Assets/Hi.gif" />, I'm Kiko <img alt="Fox running" width="25px" src="https://github.com/kik-o/kik-o/blob/master/Assets/Fox.gif" />
+### Hello <img alt="waving hand" width="25px" src="https://github.com/kik-o/kik-o/blob/master/Assets/Hi.gif" />, I'm Kiko <img alt="Fox running" width="35px" src="https://github.com/kik-o/kik-o/blob/master/Assets/Fox.gif" />
 
 <a href="https://www.linkedin.com/in/kiko/">
   <img align="left" alt="Kiko's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,7 +16,7 @@
 
 Hi there, I'm **Kiko Estrada**, a **Software Engineer** 🚀 & **UI/UX** consultant from Los Angeles. Currently, I'm LA's Chapter Director 🦊 of Latinx in Technology, a **UCLA** 🎓 alumni mentor, and an advocate for open source code.  
 
-(I've met Mr. Worldwide 🌍)
+(I've met Mr. Worldwide <img alt="spinning globe" width="18px" src="https://github.com/kik-o/kik-o/blob/master/Assets/Earth.gif" />)
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
