@@ -1,4 +1,4 @@
-### Hello 👋, I'm Kiko
+### Hello <img alt="waving hand" width="25px" src="https://github.com/kik-o/kik-o/blob/master/Assets/Hi.gif" />, I'm Kiko <img alt="Fox running" width="25px" src="https://github.com/kik-o/kik-o/blob/master/Assets/Fox.gif" />
 
 <a href="https://www.linkedin.com/in/kiko/">
   <img align="left" alt="Kiko's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
