@@ -16,8 +16,6 @@
 
 Hi there, I'm **Kiko Estrada**, a **Software Engineer** 🚀 & **UI/UX** consultant from Los Angeles. Currently, I'm LA's Chapter Director 🦊 of Latinx in Technology, a **UCLA** 🎓 alumni mentor, and an advocate for open source code.  
 
-(I've met Mr. Worldwide <img alt="spinning globe" width="18px" src="https://github.com/kik-o/kik-o/blob/master/Assets/Earth.gif" />)
-
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **A little about me:**
@@ -27,7 +25,7 @@ Hi there, I'm **Kiko Estrada**, a **Software Engineer** 🚀 & **UI/UX** consult
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I'm the founder of a Software Engineering company;
 - 💬 Ask me about anything, it's my pleasure to help;
-- 🌍 Fun fact: I've met Mr. Worldwide (Pitbull, for the uninitiated) 
+- <img alt="spinning globe" width="18px" src="https://github.com/kik-o/kik-o/blob/master/Assets/Earth.gif" /> Fun fact: I've met Mr. Worldwide (Pitbull, for the uninitiated) 
 - 📝 See my [Curriculum Vitae](https://drive.google.com) to get more info.
 
 
