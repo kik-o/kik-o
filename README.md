@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi there, I'm **Kiko Estrada**, a **Software Engineer** 🚀 & **UI/UX** consultant from Los Angeles. Currently, I'm LA's Chapter Director 🦊 of Latinx in Technology, a **UCLA** 🎓 alumni mentor, and an advocate for open source code.  
+Hi there, I'm **Kiko Estrada**, a **Software Engineer** 🚀 & **UI/UX** consultant from Los Angeles. Currently, I'm Webstack's Frontend Web Developer, a **UCLA** 🎓 alumni mentor, and an advocate for open source code.  
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
