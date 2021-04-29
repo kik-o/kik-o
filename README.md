@@ -14,13 +14,13 @@
 <br />
 <br />
 
-Hi there, I'm **Kiko Estrada**, a **Software Engineer** 🚀 & **UI/UX** consultant from Los Angeles. Currently, I'm Webstack's Frontend Web Developer, a **UCLA** 🎓 alumni mentor, and an advocate for open source code.  
+Hi there, I'm **Kiko Estrada**, a **Software Engineer** 🚀 & **UI/UX** consultant from Los Angeles. Currently, I'm Webstacks' Frontend Web Developer 💻, a **UCLA** 🎓 alumni mentor, and an advocate for open source code.  
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **A little about me:**
 
-- 📚💻 At the moment.. writing a free book on Machine Learning with Python;
+- 📚 At the moment.. writing a free book on Machine Learning with Python;
 - 🌱 Learning about.. the future of the internet: Web 3.0; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I'm the founder of a Software Engineering company;
