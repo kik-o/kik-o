@@ -21,22 +21,21 @@ Hi there, I'm **Kiko Estrada**, a **Software Engineer** 🚀 & **UI/UX** consult
 **A little about me:**
 
 - 📚💻 At the moment.. writing a free book on Machine Learning with Python;
-- 🌱 Learning about.. the principles behind Deep Reinforcement Learning; 
+- 🌱 Learning about.. the future of the internet: Web 3.0; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I'm the founder of a Software Engineering company;
 - 💬 Ask me about anything, it's my pleasure to help;
 - <img alt="spinning globe" width="18px" src="https://github.com/kik-o/kik-o/blob/master/Assets/Earth.gif" /> Fun fact: I've met Mr. Worldwide (Pitbull, for the uninitiated) 
-- 📝 See my [Curriculum Vitae](https://drive.google.com) to get more info.
+- 📝 See my [Curriculum Vitae](https://kikoestrada.com) to get more info.
 
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
